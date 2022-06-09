@@ -8,7 +8,7 @@ Uses PHP and html to access information in database and display it on the websit
 Uses Apache to access the PHP/HTMLl doc through web browser
 
 The website itself allows you to 
-- viwq all the cars or customers in the database
+- view all the cars or customers in the database
 - add a new car or customer to the database
 
 --------------------------------------------------------------------
